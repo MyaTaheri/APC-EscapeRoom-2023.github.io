@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Meridian High School's APC 2023 Escape Room!
 baseurl: "APC-EscapeRoom-2023.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  MyaTaheri
+github_username:  apc-mhs
 
 # Build settings
 theme: minima
